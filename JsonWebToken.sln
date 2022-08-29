@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonWebToken", "JsonWebToken\JsonWebToken.csproj", "{FA009234-4545-48C4-9687-81C0821A6D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA009234-4545-48C4-9687-81C0821A6D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA009234-4545-48C4-9687-81C0821A6D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA009234-4545-48C4-9687-81C0821A6D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA009234-4545-48C4-9687-81C0821A6D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBDFF43D-E6E5-49C7-A5B6-C51F8978D4D0}
+	EndGlobalSection
+EndGlobal
