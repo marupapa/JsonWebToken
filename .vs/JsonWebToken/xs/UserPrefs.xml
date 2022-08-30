@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FA009234-4545-48C4-9687-81C0821A6D42}|Default">
+  <MonoDevelop.Ide.ItemProperties.JsonWebToken PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonWebToken/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="JsonWebToken/Controllers/AuthController.cs" Line="69" Column="54" />
+      <File FileName="JsonWebToken/Properties/launchSettings.json" Line="7" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JsonWebToken" expanded="True">
+            <Node name="JsonWebToken" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

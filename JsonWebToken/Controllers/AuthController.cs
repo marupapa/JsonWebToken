@@ -11,13 +11,15 @@ namespace JsonWebToken.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-        public static User user = new User();
-
         private readonly IConfiguration _config;
+        private readonly ILogger<AuthController> _logger;
 
-        public AuthController(IConfiguration config)
+        public static User user = new User();
+        
+        public AuthController(IConfiguration config, ILogger<AuthController> logger)
         {
             _config = config;
+            _logger = logger;
         }
 
         [HttpPost("register")]
