@@ -65,3 +65,7 @@ C:/Users/HYUK/source/repos/JsonWebToken/JsonWebToken/bin/Debug/net6.0/System.Ide
 /Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
 /Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Scrutor.dll
+/Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.dll
+/Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.Abstractions.dll

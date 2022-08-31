@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{FA009234-4545-48C4-9687-81C0821A6D42}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{FA009234-4545-48C4-9687-81C0821A6D42}|Default">
   <MonoDevelop.Ide.ItemProperties.JsonWebToken PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="JsonWebToken/Properties/launchSettings.json">
@@ -28,7 +28,5 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
