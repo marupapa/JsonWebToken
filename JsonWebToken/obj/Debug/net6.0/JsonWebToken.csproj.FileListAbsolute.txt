@@ -62,3 +62,6 @@ C:/Users/HYUK/source/repos/JsonWebToken/JsonWebToken/bin/Debug/net6.0/System.Ide
 /Users/hyuklee/Projects/JsonWebToken/JsonWebToken/obj/Debug/net6.0/JsonWebToken.pdb
 /Users/hyuklee/Projects/JsonWebToken/JsonWebToken/obj/Debug/net6.0/JsonWebToken.genruntimeconfig.cache
 /Users/hyuklee/Projects/JsonWebToken/JsonWebToken/obj/Debug/net6.0/ref/JsonWebToken.dll
+/Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hyuklee/Projects/JsonWebToken/JsonWebToken/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

@@ -1,16 +1,23 @@
 ﻿<Properties StartupConfiguration="{FA009234-4545-48C4-9687-81C0821A6D42}|Default">
   <MonoDevelop.Ide.ItemProperties.JsonWebToken PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="JsonWebToken/Controllers/AuthController.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonWebToken/Properties/launchSettings.json">
     <Files>
-      <File FileName="JsonWebToken/Controllers/AuthController.cs" Line="69" Column="54" />
+      <File FileName="JsonWebToken/Controllers/AuthController.cs" Line="62" Column="32" />
       <File FileName="JsonWebToken/Properties/launchSettings.json" Line="7" Column="47" />
+      <File FileName="JsonWebToken/Program.cs" Line="1" Column="1" />
+      <File FileName="JsonWebToken/WeatherForecast.cs" Line="13" Column="2" />
+      <File FileName="JsonWebToken/Controllers/WeatherForecastController.cs" Line="18" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="JsonWebToken" expanded="True">
-            <Node name="JsonWebToken" expanded="True" />
+            <Node name="JsonWebToken" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -19,9 +26,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
 </Properties>
